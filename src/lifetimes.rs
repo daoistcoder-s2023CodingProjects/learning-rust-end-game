@@ -33,20 +33,20 @@
 // Lifetime Rule #3
 // if &self or mut &self in parameters, lifetime of self is assigned to output
 
-struct Person<'a> {
-    first_name: &'a str,
-    last_name: &'a str,
-}
+// struct Person<'a> {
+//     first_name: &'a str,
+//     last_name: &'a str,
+// }
 
-impl<'a> Person<'a> {
-    fn first_char_of_name(&self) -> &str {
-        &self.first_name[0..1]
-    }
-
-    fn full_name(&self) -> String {
-        format!("{} {}", self.first_name, self.last_name)
-    }
-}
+// impl<'a> Person<'a> {
+//     fn first_char_of_name(&self) -> &str {
+//         &self.first_name[0..1]
+//     }
+//
+//     fn full_name(&self) -> String {
+//         format!("{} {}", self.first_name, self.last_name)
+//     }
+// }
 
 // Lifetime in enums
 enum Animal<'a> {

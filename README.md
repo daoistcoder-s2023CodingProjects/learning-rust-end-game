@@ -31,5 +31,5 @@ This repository is dedicated to my journey of learning the Rust programming lang
 
 ##  📈 Progress
 ### Week 1
-* [Learning Rust Fundamentals] - 50%
+* [Learning Rust Fundamentals] - 80%
 * [Familiarize with Rust Environment] - 100% ✅

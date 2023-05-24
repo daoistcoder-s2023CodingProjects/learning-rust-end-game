@@ -1,4 +1,4 @@
-# 💻 Rust Learning Repository
+# 💻 Rust Learning Repository - daoist version
 
 This repository is dedicated to my journey of learning the Rust programming language.
 
@@ -31,5 +31,7 @@ This repository is dedicated to my journey of learning the Rust programming lang
 
 ##  📈 Progress
 ### Week 1
-* [Learning Rust Fundamentals] - 80%
-* [Familiarize with Rust Environment] - 100% ✅
+
+* [daoist started his learning journey in RUST] - 
+* [Learning Rust Fundamentals] - 
+* [Familiarize with Rust Environment] - 
